@@ -1,0 +1,1 @@
+# prompt-automacao-n8n.md
